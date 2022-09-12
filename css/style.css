@@ -1,0 +1,15 @@
+.black-hole{
+	color: red;
+}
+#top{
+	color: green;
+}
+.mars p{
+	color: blue;
+}
+div.gravitational-waves{
+	color: pink;
+}
+.black-hole ~ p{
+	color: purple;
+}
